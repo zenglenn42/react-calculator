@@ -1,6 +1,6 @@
 # TDD React
 
-Hello
+[![CircleCI](https://circleci.com/gh/zenglenn42/react-calculator.svg?style=svg)](https://circleci.com/gh/zenglenn42/react-calculator)
 
 A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
 
